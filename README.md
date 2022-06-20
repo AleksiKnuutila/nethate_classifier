@@ -1,6 +1,6 @@
 # Online Hate research project - slur identification
 
-This repository is related to the research project "Online Hate - The networks, practices and motives of the producers and distributors of hate speech". The project page, including the published results, can be found [here](https://vnk.fi/-/1927382/vihan-verkot-vihapuheen-tuottajien-ja-levittajien-motiivit-verkostot-ja-toimintamuodot).
+This repository is related to the research project "Online Hate - The networks, practices and motives of the producers and distributors of hate speech". The project page, including the published results, can be found [here](https://julkaisut.valtioneuvosto.fi/handle/10024/164244).
 
 The repository contains some of the resources used to identify slurs targeted towards minorities on digital media. These are published for purposes of transparency and to make it possible to evaluate the research results.
 
